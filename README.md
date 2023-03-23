@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **ili-ouz@outlook.fr**
+- 📫 reach me on **ili-ouz@outlook.fr**
 
 - 📄 My acquired programming languages : *Python* - *java* - *HTML* - *CSS* - *JS*
 
