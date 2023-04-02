@@ -7,7 +7,7 @@
 
 - 📫 reach me on **ili-ouz@outlook.fr**
 
-- 📄 My acquired programming languages : *Python* - *java* - *HTML* - *CSS* - *JS*
+- 📄 My acquired programming skills : *Python* - *java* - *HTML* - *CSS* - *JS*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
