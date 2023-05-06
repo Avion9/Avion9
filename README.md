@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on A [ Movies Web-App](https://github.com/Avion9/moviesapp)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 reach me on **ili-ouz@outlook.fr**
 
