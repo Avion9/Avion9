@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ouztato ilias</h1>
 <h3 align="center">New to Front-End development </h3>
 
-- 🔭 I’m currently working on A [ Movies Web-App](https://github.com/Avion9/Cine4us)
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 reach me on **ili-ouz@outlook.fr**
