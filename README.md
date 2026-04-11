@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ouztato ilias</h1>
 <h3 align="center">New to Front-End development </h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **UI / UX**
 
 - 📫 reach me on **ili-ouz@outlook.fr**
 
-- 📄 My acquired programming skills : *Python* - *java* - *Dart* - *JS*
+- 📄 My acquired programming skills : *Python* - *java* - *Dart* - *TS*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
